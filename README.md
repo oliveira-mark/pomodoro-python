@@ -1,2 +1,2 @@
 # pomodoro-python
-pomodoro in python for developers
+PomoPy - pomodoro in python for developers
